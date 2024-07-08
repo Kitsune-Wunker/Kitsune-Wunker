@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kitsune-Wunker
-- 👀 I’m interested in 
+- 👀 I’m interested in unlocking the esoteric secrets of pingus
 - 🌱 I’m currently learning Wunkology
 - ⚡ Fun fact: there are 6 faces on a cube
 
