@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Kitsune-Wunker
-- 👀 I’m interested in unlocking the esoteric secrets of pingus
-- 🌱 I’m currently learning Wunkology
-- ⚡ Fun fact: there are 6 faces on a cube
-
-<!---
-Kitsune-Wunker/Kitsune-Wunker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Kit 
+Bsc Biochemistry student in the UK
+Interested in Protein Engineering (and other SynBio topics)
+and by extension interested in protein simulation and substrate detection
