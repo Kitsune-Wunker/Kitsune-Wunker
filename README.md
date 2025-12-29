@@ -1,3 +1,5 @@
 - Bsc Biochemistry student in the UK
 - Interested in ProteinDesign/ Engineering (and other SynBio topics)
 - and by extension interested in protein simulation, substrate docking etc...
+- R, Python, Bash/Zsh
+- Arch(3mo) -> Gentoo(1yr) -> Fedora(1mo) -> Arch (current, 1yr) 
